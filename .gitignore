@@ -4,4 +4,4 @@
 *.ptx
 *.cubin
 *.fatbin
-./exe/*
+CUDA-Perceptron/exe/*.exe
